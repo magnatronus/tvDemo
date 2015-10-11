@@ -1,6 +1,6 @@
 # tvDemo Introduction
 
-**tvDemo** is a test project (written with NodeJS, ExpressJS and EJS) for the new Apple tvOS. This is actually a modification to the demo code that Apple uses to give an overview of the template functionality of tvOS. I thought the best way to get to grips with it was to try and using some other technolgies to create a duplicate app, and though nowwhere near perfect, it does appear to work and I do lile the user of EJS to render the TVML templates.
+**tvDemo** is a test project (written with NodeJS, ExpressJS and EJS) for the new Apple tvOS. This is actually a modification to the demo code that Apple uses to give an overview of the template functionality of tvOS. I thought the best way to get to grips with it was to try and using some other technologies to create a duplicate app, and though nowwhere near perfect, it does appear to work and I do lile the user of EJS to render the TVML templates.
 
 
 ## Prerequisites
@@ -14,5 +14,5 @@ You should create a simple Swift tvOS app project (as explained in the developer
  
 ```
 
-Setting tvBaselURL to wherever the Node server is running.
+Setting tvBaseURL to wherever the Node server is running.
 
