@@ -1,5 +1,5 @@
 {
-  "name": "tott",
+  "name": "tvDemo",
   "version": "1.0.0",
   "description": "A Test Node TV Server",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Steve Rogers",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "ejs": "^2.3.4",
     "express": "^4.13.3"
